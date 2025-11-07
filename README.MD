@@ -138,4 +138,4 @@ Color is HTML hex (e.g., `"#rrggbb"` or `"#rrggbbaa"`).
 For the server package, include: `MSC.MP.Server.exe`, `MSC.MP.Server.dll`, `server.cfg`, and the `scripts/` folder (if used).
 
 ## License
-Add your license (e.g., MIT) or leave "All rights reserved".
+All rights reserved.
