@@ -136,4 +136,4 @@ public class MyMode : IServerScript
 - Для серверного пакета достаточно: `MSC.MP.Server.exe`, `MSC.MP.Server.dll`, `server.cfg`, `scripts/` (если используете).
 
 ## Лицензия
-Укажите вашу лицензию (например, MIT) или «All rights reserved».
+All rights reserved.
